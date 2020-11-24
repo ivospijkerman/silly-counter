@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SillyCounter</string>
+    <string name="increment">Increment</string>
+    <string name="initial_counter">0</string>
+</resources>
